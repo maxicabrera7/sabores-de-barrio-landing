@@ -18,7 +18,7 @@ Podés acceder a la versión publicada y probar la página directamente desde ac
 "Sabores de Barrio" es una página web diseñada para un bar y restaurante ficticio de La Rioja. El objetivo principal fue experimentar cómo la Inteligencia Artificial (utilizando la plataforma **Bolt.new**) puede actuar como un asistente de desarrollo para crear una web moderna, vistosa y adaptable a celulares y computadoras.
 
 ### Secciones principales:
-* **Inicio (Hero):** Bienvenida con fotografía gastronómica y acceso rápido.
+* **Inicio:** Bienvenida con fotografía gastronómica y acceso rápido.
 * **Menú interactivo:** Platos organizados por categorías (Hamburguesas, Pizzas, Lomitos y Bebidas) con filtros dinámicos.
 * **Promociones:** Combos destacados de la semana con descuentos.
 * **Reservas:** Formulario interactivo con comprobación de datos.
